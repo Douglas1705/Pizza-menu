@@ -1,13 +1,14 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import GlobalStyle from './globalStyle/globalStyle.js'
-import Header from './layoutPage/header/header.jsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import GlobalStyle from "./globalStyle/globalStyle.js";
+import MainHtml from "./layoutPage/main/main.jsx"
+import Header from "./layoutPage/header/header.jsx";
 
-createRoot(document.getElementById('root')).render(
+createRoot(document.getElementById("root")).render(
   <StrictMode>
-   
+    <MainHtml>
     <Header />
     <GlobalStyle />
-  </StrictMode>,
-  
-)
+    </MainHtml>
+  </StrictMode>
+);
