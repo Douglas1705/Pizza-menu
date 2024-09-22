@@ -1,20 +1,22 @@
-<img src="https://i.ibb.co/mz7H2tC/Menu-Pizza.png" alt="Menu-Pizza" border="0">
+<div align="center">
+<img src="https://i.ibb.co/mz7H2tC/Menu-Pizza.png" alt="Menu-Pizza">
+</div>
+<br>
 
-##Description
+## Description
 
 This project was based on the project by @jonasschmedtmann, from the Udemy course: 
 <br>
-<a href="https://compassuol.udemy.com/course/the-ultimate-react-course">"Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns", </a>
+<a href="https://compassuol.udemy.com/course/the-ultimate-react-course">"Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns"</a>
 <br>
-
-
 In order to add more knowledge, I decided to create the site using Vite, separating the code into components and using styledComponents.
 
-##Website image
+## Website image
 <br>
 <img src="https://i.ibb.co/cDntKpJ/Pizza-menu-project.png" alt="menu pizza image">
 <br>
-##Technologies
+
+## Technologies
 <br>
 - React + Vite;
 - StyledComponents;
@@ -40,7 +42,7 @@ To install and run the project locally, follow the steps below:
 
     npm run dev
 
-##Contribution
+## Contribution
 
 Contributions are welcome! Feel free to open issues and submit pull requests.
 
