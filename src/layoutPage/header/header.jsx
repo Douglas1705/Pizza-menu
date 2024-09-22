@@ -1,6 +1,9 @@
+import { HeaderStyle } from './headerStyle.js'
 function Header(){
     return(
-        <h1>Ola mundo</h1>
+        <HeaderStyle>
+            <h1>Fast React Pizza Co.</h1>
+        </HeaderStyle>
     )
 }
 
