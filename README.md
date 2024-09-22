@@ -5,10 +5,10 @@
 
 ## Description
 
-This project was based on the project by @jonasschmedtmann, from the Udemy course: 
+This project was based on the project by @jonasschmedtmann , from the Udemy course: 
 <br>
-<a href="https://compassuol.udemy.com/course/the-ultimate-react-course">"Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns"</a>
-<br>
+<a href="https://compassuol.udemy.com/course/the-ultimate-react-course">"Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns"</a>;<br>
+To visit the original project code, visit: [project code GitHub](https://github.com/jonasschmedtmann/ultimate-react-course/tree/main/03-pizza-menu).<br>
 In order to add more knowledge, I decided to create the site using Vite, separating the code into components and using styledComponents.
 
 ## Website image
